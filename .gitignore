@@ -1,0 +1,13 @@
+# Machine-specific / build output
+local.properties
+.gradle/
+build/
+*.apk
+*.aab
+.idea/
+*.iml
+.DS_Store
+.kotlin/
+
+# Compiled Mac server
+mac-server/TouchpadServer
